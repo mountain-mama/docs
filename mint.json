@@ -51,11 +51,17 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Contact",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "email",
+        "SMS / text"
+      ]
+    },
+       {
+      "group": "Capabilities",
+      "pages": [
+        "lunch club",
+        "team lunch"
       ]
     },
     {
