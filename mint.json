@@ -53,21 +53,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction"
-      ]
-    }
-    {
-      "group": "Contact",
-      "pages": [
-        "email",
-        "text"
-      ]
-    },
-       {
-      "group": "Capabilities",
-      "pages": [
-        "lunch-club",
-        "team-lunch"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
