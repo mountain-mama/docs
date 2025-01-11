@@ -51,6 +51,11 @@
   ],
   "navigation": [
     {
+      "pages": [
+        "introduction"
+      ]
+    }
+    {
       "group": "Contact",
       "pages": [
         "email",
