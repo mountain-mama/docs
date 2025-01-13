@@ -56,15 +56,19 @@
         "introduction",
       ]
     },
-    {
-      "group": "Essentials",
+        {
+      "group": "Contact",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "text",
+        "email"
+      ]
+    },
+    {
+      "group": "Capabilities",
+      "pages": [
+        "features/lunchclub",
+        "features/teamlunch",
+        "features/cateredlunch"
       ]
     },
     {
