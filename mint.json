@@ -23,8 +23,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Home",
+    "url": "https://mountainmama.ai"
   },
   "tabs": [
     {
