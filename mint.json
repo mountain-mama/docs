@@ -26,16 +26,6 @@
     "name": "Home",
     "url": "https://mountainmama.ai"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
