@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Mountain Mama",
   "logo": {
-    "dark": "mm-wordmark-black-transparent.png",
-    "light": "mm-wordmark-white-transparent.png",
+    "dark": "mm-wordmark-white-transparent.png",
+    "light": "mm-wordmark-black-transparent.png",
     "href": "https://mountainmama.ai"
   },
   "favicon": "/favicon.svg",
