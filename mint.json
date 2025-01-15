@@ -10,7 +10,7 @@
   "default": "light",
   "isHidden": true
 },
-  "favicon": "/favicon.svg",
+  "favicon": "mountain-mama-favicon.jpg",
   "colors": {
     "primary": "#057C7E",
     "light": "#057C7E",
