@@ -6,6 +6,10 @@
     "light": "mm-wordmark-black-transparent.png",
     "href": "https://mountainmama.ai"
   },
+  "modeToggle": {
+  "default": "light",
+  "isHidden": true
+},
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#EC7F4D",
