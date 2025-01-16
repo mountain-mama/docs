@@ -1,53 +1,53 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Mountain Mama",
-  "logo": {
-    "dark": "mm-wordmark-white-transparent.png",
-    "light": "mm-wordmark-black-transparent.png",
-    "href": "https://mountainmama.ai"
-  },
-  "modeToggle": {
-    "default": "light",
-    "isHidden": true
-  },
-  "favicon": "mountain-mama-favicon.jpg",
-  "colors": {
-    "primary": "#EC7F4D",
-    "light": "#057C7E",
-    "dark": "#057C7E",
-    "background": "#F5F5F5"
-  },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:mama@mountainmama.ai"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Home",
-    "url": "https://mountainmama.ai"
-  },
-  "navigation": [
-    {
-      "group": "Get Started",
-      "pages": [
-        "introduction"
-      ]
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "Mountain Mama",
+    "logo": {
+        "dark": "mm-wordmark-white-transparent.png",
+        "light": "mm-wordmark-black-transparent.png",
+        "href": "https://mountainmama.ai"
     },
-    {
-      "group": "Contact",
-      "pages": [
-        "text",
-        "email"
-      ]
+    "modeToggle": {
+        "default": "light",
+        "isHidden": true
     },
-    {
-      "group": "Capabilities",
-      "pages": [
-        "features/lunchclub",
-        "features/teamlunch",
-        "features/cateredlunch"
-      ]
-    }
-  ]
+    "favicon": "mountain-mama-favicon.jpg",
+    "colors": {
+        "primary": "#EC7F4D",
+        "light": "#057C7E",
+        "dark": "#057C7E",
+        "background": "#F5F5F5"
+    },
+    "topbarLinks": [
+        {
+            "name": "Support",
+            "url": "mailto:mama@mountainmama.ai"
+        }
+    ],
+    "topbarCtaButton": {
+        "name": "Home",
+        "url": "https://mountainmama.ai"
+    },
+    "navigation": [
+        {
+            "group": "Get Started",
+            "pages": [
+                "introduction"
+            ]
+        },
+        {
+            "group": "Contact",
+            "pages": [
+                "text",
+                "email"
+            ]
+        },
+        {
+            "group": "Capabilities",
+            "pages": [
+                "features/lunchclub",
+                "features/teamlunch",
+                "features/cateredlunch"
+            ]
+        }
+    ]
 }
