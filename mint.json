@@ -12,7 +12,7 @@
     "favicon": "mountain-mama-favicon.jpg",
     "colors": {
         "primary": "#EC7F4D",
-        "light": "#057C7E",
+        "light": "#EC7F4D",
         "dark": "#057C7E",
         "background": {
           "light": "#F5F5F5",
