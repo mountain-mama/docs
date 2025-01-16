@@ -15,7 +15,10 @@
         "primary": "#EC7F4D",
         "light": "#057C7E",
         "dark": "#057C7E",
-        "background": "#F5F5F5"
+        "background": {
+          "light": "#F5F5F5",
+          "dark": "#F5F5F5"
+        }
     },
     "topbarLinks": [
         {
