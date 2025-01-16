@@ -19,6 +19,14 @@
           "dark": "#F5F5F5"
         }
     },
+    "font": {
+      "headings": {
+        "family": "Roboto"
+        },
+      "body": {
+        "family": "Poppins"
+        }
+    },
     "topbarLinks": [
         {
             "name": "Support",
