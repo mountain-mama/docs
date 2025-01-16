@@ -7,9 +7,9 @@
     "href": "https://mountainmama.ai"
   },
   "modeToggle": {
-  "default": "light",
-  "isHidden": true
-},
+    "default": "light",
+    "isHidden": true
+  },
   "favicon": "mountain-mama-favicon.jpg",
   "colors": {
     "primary": "#EC7F4D",
