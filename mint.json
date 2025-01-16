@@ -8,6 +8,7 @@
     },
     "modeToggle": {
         "default": "light"
+        "isHidden": true
     },
     "favicon": "mountain-mama-favicon.jpg",
     "colors": {
