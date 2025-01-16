@@ -55,9 +55,9 @@
         {
             "group": "Capabilities",
             "pages": [
-                "features/lunchclub",
-                "features/teamlunch",
-                "features/cateredlunch"
+                "capabilities/lunchclub",
+                "capabilities/teamlunch",
+                "capabilities/cateredlunch"
             ]
         }
     ]
