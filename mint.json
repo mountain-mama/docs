@@ -56,6 +56,13 @@
             "group": "Eating Healthy",
             "pages": [
                 "capabilities/lunchclub",
+                  {
+                  "group": "Features",
+                  "pages": ["capabilities/features/daily-special", 
+                            "capabilities/features/good-energy-special",
+                            "capabilities/features/order-by-number"
+                            ]
+                  }
                 "capabilities/teamlunch",
                 "capabilities/catering"
             ]
