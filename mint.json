@@ -57,10 +57,11 @@
             "pages": [
                   {
                   "group": "Mama's Lunch Club",
+                  "icon": "person",
                   "pages": ["capabilities/lunch-club-overview",
-                            "capabilities/features/daily-special", 
-                            "capabilities/features/good-energy-special",
-                            "capabilities/features/order-by-number"
+                            "capabilities/lunchclub/daily-special", 
+                            "capabilities/lunchclub/good-energy-special",
+                            "capabilities/lunchclub/order-by-number"
                             ]
                   },
                 "capabilities/teamlunch",
