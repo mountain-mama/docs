@@ -33,7 +33,7 @@
               "capabilities/lunch-club-overview",
               "capabilities/lunchclub/daily-special",
               "capabilities/lunchclub/good-energy-special",
-              "capabilities/lunchclub/order-by-number".
+              "capabilities/lunchclub/order-by-number",
               "capabilities/lunchclub/payments"
             ]
           },
