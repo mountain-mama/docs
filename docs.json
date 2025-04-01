@@ -14,6 +14,7 @@
         "group": "Get Started",
         "pages": [
           "introduction"
+          "about_me"
         ]
       },
       {
@@ -40,13 +41,7 @@
           "capabilities/teamlunch",
           "capabilities/catering"
         ]
-      },
-      {
-        "group": "Capabilities",
-        "pages": [
-          "text",
-        ]
-      },
+      }
     ]
   },
   "logo": {
