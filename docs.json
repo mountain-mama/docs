@@ -40,7 +40,13 @@
           "capabilities/teamlunch",
           "capabilities/catering"
         ]
-      }
+      },
+      {
+        "group": "Capabilities",
+        "pages": [
+          "text",
+        ]
+      },
     ]
   },
   "logo": {
